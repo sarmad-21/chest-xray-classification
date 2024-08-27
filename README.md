@@ -22,7 +22,7 @@ The model uses a Convolutional Neural Network (CNN) architecture to classify ima
 - **Sigmoid Activation Function**: Produces a probability score for binary classification.
 
 ## Data 
-The dataset consists of chest X-ray images categorized into "Normal" and "Pneumonia" classes. The data is split into training, validation, and test sets. Images are preprocessed by resizing to 32x32 pixels, converting to grayscale, and normalizing.
+The dataset consists of chest X-ray images categorized into "Normal" and "Pneumonia" classes. The data is split into training, validation, and test sets. Images are preprocessed by resizing to 32x32 pixels, converting to grayscale, and normalizing. I obtained this dara from 
 
 ## Model Training 
 The model is trained using the following parameters:
