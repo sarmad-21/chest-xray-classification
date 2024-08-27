@@ -30,3 +30,6 @@ The model is trained using the following parameters:
 - Batch Size: 5
 - Epochs: 20
 - Loss Function: Binary Crossentropy
+
+## Performance 
+Achieved validation accuracy of 87%.
