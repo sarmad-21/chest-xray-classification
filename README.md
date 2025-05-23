@@ -3,16 +3,16 @@
 ## Overview 
 This project involves developing a computer vision model to classify chest X-ray images into two categories: Normal and Pneumonia. The model is built using TensorFlow and Keras and is trained to detect pneumonia from chest X-ray images. The application is designed to help in medical diagnostics by identifying the presence of pneumonia in X-ray images.
 
-## Technologies Used
+## Libraries 
 - **Python**
 - **TensorFlow**
 - **Keras**
-- **PIL (Python Imaging Library)**
+- **PIL **
 - **NumPy**
 - **Scikit-Learn**
 - **OS**
 
-## Deep Learning Model
+## CNN Architecture 
 The model uses a Convolutional Neural Network (CNN) architecture to classify images. Key components include:
 - **Convolutional Layer**: Extracts features from the input images.
 - **ReLU Activation Function**: Introduces non-linearity to the model.
