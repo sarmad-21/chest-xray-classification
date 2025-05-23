@@ -4,7 +4,6 @@
 This project involves developing a computer vision model to classify chest X-ray images into two categories: Normal and Pneumonia. The model is built using TensorFlow and Keras and is trained to detect pneumonia from chest X-ray images. The application is designed to help in medical diagnostics by identifying the presence of pneumonia in X-ray images.
 
 ## Libraries 
-- **Python**
 - **TensorFlow**
 - **Keras**
 - **PIL **
